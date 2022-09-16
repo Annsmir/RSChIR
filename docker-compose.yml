@@ -33,3 +33,27 @@ services:
             - 8080:80
         depends_on:
             - db
+
+    Drawer:
+        container_name: Drawer
+        image: php:7.2-apache
+        ports:
+            - 1000:80
+        volumes:
+            - ./Drawer:/var/www/html
+
+    Sort:
+        container_name: Sort
+        image: php:7.2-apache
+        ports:
+            - 2000:80
+        volumes:
+            - ./Sort:/var/www/html
+
+    LinuxCMD:
+        container_name: LinuxCMD
+        image: php:7.2-apache
+        ports:
+            - 3000:80
+        volumes:
+            - ./LinuxCMD:/var/www/html

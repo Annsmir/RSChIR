@@ -1,0 +1,10 @@
+*{
+    background-color: beige;
+    font-size: 20pt;
+}
+
+form{
+    width: 50px;
+    height: 10px;
+    padding-bottom: 10px;
+}
