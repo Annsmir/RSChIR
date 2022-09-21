@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <title>Sorter page</title>
+    <title>Sort</title>
     <link rel="stylesheet" href="style.css" type="text/css"/>
 </head>
 <body>

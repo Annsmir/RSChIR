@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <title>Consoler page</title>
+    <title>LinuxCMD</title>
     <link rel="stylesheet" href="style.css" type="text/css"/>
 </head>
 <body>

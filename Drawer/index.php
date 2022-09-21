@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <title>Drawer page</title>
+    <title>Drawer</title>
     <link rel="stylesheet" href="style.css" type="text/css"/>
 </head>
 <body>
